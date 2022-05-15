@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **candido.bezerra.coding@gmail.com**
 
-- ⚡ Fun fact **My middle name is a japanese lunch box**
+- ⚡ Fun fact **My middle name is a japanese lunch box 🍱**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
