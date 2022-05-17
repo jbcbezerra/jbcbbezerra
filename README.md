@@ -23,6 +23,6 @@
 
 <p><img align="left" src="https://github-readme-stats-jbcbezerra.vercel.app/api/top-langs?username=jbcbezerra&show_icons=true&theme=dracula&locale=en&layout=compact" alt="jbcbezerra" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-jbcbezerra.vercel.app/api?username=jbcbezerra&show_icons=true&theme=dracula&locale=en" alt="jbcbezerra" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-jbcbezerra.vercel.app/api?username=jbcbezerra&show_icons=true&theme=dracula&locale=en&count_private=true" alt="jbcbezerra" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jbcbezerra&theme=dark" alt="jbcbezerra" /></p>
