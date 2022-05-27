@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jbcbbezerra&label=Profile%20views&color=0e75b6&style=flat" alt="jbcbbezerra" /> </p>
 
-- 🔭 I’m currently working on **Cookup**
+- 🔭 I’m currently working on **GymRoom**
 
-- 🌱 I’m currently learning **Scrapy, SQLAlchemy, Android**
+- 🌱 I’m currently learning **Openstack, Cloud, Android**
 
 - 💬 Ask me about **Netty.io**
 
