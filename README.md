@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **GymRoom**
 
-- 🌱 I’m currently learning **Openstack, Cloud, Android**
+- 🌱 I’m currently learning about **Cloud Solutions**
 
 - 💬 Ask me about **Netty.io**
 
