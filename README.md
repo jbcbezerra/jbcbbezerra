@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jbcbbezerra&label=Profile%20views&color=0e75b6&style=flat" alt="jbcbbezerra" /> </p>
 
-- 🔭 I’m currently working on **Swift-Storm**
+- 🔭 I’m currently working on **Calentro**
 
-- 🌱 I’m currently learning about **Combining RDMA and GPU-Direct**
+- 🌱 I’m currently learning about **Spring**
 
-- 💬 Ask me about **Netty.io, Spring, Angular, Android, Infiniband, Cuda**
+- 💬 Ask me about **Spring, Angular, Android**
 
 - 📫 How to reach me **candido.bezerra.coding@gmail.com**
 
