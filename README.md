@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on **Calentro**
 
-- 🌱 I’m currently learning about **Spring**
-
 - 💬 Ask me about **Spring, Angular, Android**
 
 - 📫 How to reach me **candido.bezerra.coding@gmail.com**
